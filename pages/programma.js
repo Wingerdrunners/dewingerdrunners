@@ -31,26 +31,7 @@ export default function programma() {
         <tr className = "text-yellow-800 bg-transparent animate-bounce md:text-2xl " >   
                                 
                            
-                                <td>2022/05/01</td>
-                                <td>Aardschoten</td>
-                                <td>Lia</td>
-                            </tr>
-                            <tr className="bg-transparent">
-                                <td>2022/05/08</td>
-                                <td>Loopark</td>
-                                <td>Cita</td>
-                            </tr>
-                            <tr className="bg-transparent">
-                                <td>2022/05/15</td>
-                                <td>Het Leesten</td>
-                                <td>Jacques</td>
-                            </tr>
-                            <tr className="bg-transparent">
-                                <td>2022/05/22</td>
-                           w     <td>Het Loopark</td>
-                                <td>Jeroen</td>
-                            </tr>
-                            <tr className="bg-transparent">
+                                              <tr className="bg-transparent">
                                 <td>2022/05/29</td>
                                 <td>Wenum-Wiesel</td>
                                 <td>Linda</td>
